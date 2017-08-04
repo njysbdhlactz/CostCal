@@ -1,0 +1,10 @@
+D:\WorkSpaces\C#program\CostCal\CostCal\bin\Debug\CostCal.exe.config
+D:\WorkSpaces\C#program\CostCal\CostCal\bin\Debug\CostCal.exe
+D:\WorkSpaces\C#program\CostCal\CostCal\bin\Debug\CostCal.pdb
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.csprojResolveAssemblyReference.cache
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.Properties.Resources.resources
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.csproj.GenerateResource.Cache
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.exe
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.pdb
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.Frm_main.resources
+D:\WorkSpaces\C#program\CostCal\CostCal\obj\Debug\CostCal.Frm_input.resources
